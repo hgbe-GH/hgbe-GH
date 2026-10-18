@@ -1,5 +1,3 @@
-<img src="./assets/hugo-gaube-2026.webp" alt="Portrait de Hugo Gaube" width="170" align="right" />
-
 # Hi, I'm Hugo.
 
 I build practical products at the intersection of **AI, data, and automation** — from first experiment to usable tool.
