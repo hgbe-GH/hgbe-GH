@@ -20,7 +20,6 @@ Based in Montpellier, France.
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Matchers Scoring API — Project 8](https://github.com/hgbe-GH/Projet8-scoring-api) | Serving a model that estimates the risk of an already-won sales case not completing, with API tests and monitoring experiments. | Python, FastAPI, Docker, Pytest, Evidently |
-| [Levier](https://github.com/hgbe-GH/levier) | Proof of concept for a demand-led marketplace: buyers set a maximum price, sellers submit bids, and a clearing engine picks a viable offer. | Next.js, TypeScript, PostgreSQL, Neon |
 | [OpenAgenda RAG — Project 7](https://github.com/hgbe-GH/Projet7) | A cultural-event recommendation assistant using retrieval, embeddings, vector search and LLM answers, with explicit evaluation. | Mistral, FAISS, FastAPI, Docker |
 | [Employee Attrition — Project 4](https://github.com/hgbe-GH/projet4) | Exploratory analysis and supervised classification of staff attrition in an IT services context. | Python, ML, SHAP |
 
